@@ -1,0 +1,5 @@
+venv/
+endos_dumps_prettifier.zip
+out/
+.idea/
+**/__pycache__/
